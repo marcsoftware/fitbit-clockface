@@ -27,7 +27,7 @@
 *  the app should now be running in the simulator window.
 
 ## NOTES
-### These are problems you might run into.
+### These are problems you might run into if you want to run app on your watch.
 * NOTE : fitbit studo does not work with all fitbit watches(older models won't work).
 * NOTE : your fitbit also needs to be updated above version 38.
   - click settings/about on your versa 2 watch to see which version you have.
