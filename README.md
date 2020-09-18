@@ -32,7 +32,8 @@
 * NOTE : your fitbit also needs to be updated above version 38.
   - click settings/about on your versa 2 watch to see which version you have.
   - To update versa-2 you may need the latest version of android installed on a 
-  - live-usb or your phone ( hopefully your phone has the lastest version android).
+  - live-usb or your phone
+  - ( hopefully your phone has the lastest version android but a live-usb is easy to make).
 
 #### How to RUN on versa 2 ( also install on versa 2)
 * read the NOTES before continuing.
