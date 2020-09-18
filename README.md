@@ -38,9 +38,9 @@
 #### How to RUN on versa 2 ( also install on versa 2)
 * read the NOTES before continuing.
 * click ⚙️ on your fitbit watch
-* scroll down to 'fitbit bridge'
-* click so that it says 'connecting' instead of disabled
-* wait for it to say 'connected'
+* scroll down to 'developer bridge'
+* click so that it says 'Connecting to Server' instead of 'disconnected'
+* wait for it to say 'Connected to Server'
 * go to the fitbit studio website
 * click select device
 * click versa 2
