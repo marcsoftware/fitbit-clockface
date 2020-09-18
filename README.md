@@ -30,9 +30,9 @@
 ### These are problems you might run into.
 * NOTE : fitbit studo does not work with all fitbit watches(older models won't work).
 * NOTE : your fitbit also needs to be updated above version 38.
-*        click settings/about on your versa 2 watch to see which version you have.
-*        To update versa-2 you may need the latest version of android installed on a 
-*        live-usb or your phone or hopefully your phone has the lastest version android.
+- click settings/about on your versa 2 watch to see which version you have.
+- To update versa-2 you may need the latest version of android installed on a 
+- live-usb or your phone or hopefully your phone has the lastest version android.
 
 #### How to RUN on versa 2 ( also install on versa 2)
 * read the NOTES before continuing.
