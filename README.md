@@ -1,1 +1,1 @@
-![ima](CSS perfect.png)
+![ima](/cover.png)
